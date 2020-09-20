@@ -8,8 +8,8 @@
 Keed on learning new technologies in IT sphere. Interested in WebDev, DevNet and ML. Have experience of 7 years in Networking field
 
 ####  Skills ####
-* basic understanding of CSS, HTML, JS, Python
-* solid understanding of Cisco Routing & Switching administration
+* Basic understanding of CSS, HTML, JS, Python
+* Solid understanding of Cisco Routing & Switching administration
 
 #### Programming Projects ####
 No projects yet. Link to [My GitHub account](https://github.com/timurkz)
